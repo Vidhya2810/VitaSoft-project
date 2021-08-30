@@ -1,0 +1,77 @@
+*{
+  padding: 7;
+  margin: 2;
+  box-sizing: border-box;
+  font-family: 'Times New Roman', Times, serif;
+  
+
+  
+  
+
+}
+
+
+body{
+
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+}
+.container{
+
+  justify-content: center;
+  text-align: left;
+  background-color: rgb(223, 191, 210);
+  box-shadow: violet;
+  box-sizing: border-box;
+  width: 450px;
+  height: 1000px;
+  
+}
+
+
+
+.header{
+  color: #fff;
+  text-align: center;
+  background-color: #945179;
+  padding: 20px 10px;
+  border-bottom: 3px solid #b68199;
+
+}
+
+
+
+
+
+.group{
+  
+  margin-bottom: 1px;
+  padding-bottom: 2px;
+  position: relative;
+}
+
+.group input{
+  border: 2px solid #c981b9;
+  border-radius: 2px;
+  font-size: .8rem;
+  width: 100%;
+  padding: 10px;
+}
+
+
+select{
+  text-align-last: center;
+  width: 100%;
+  
+
+}
+
+.submit{
+   
+ text-align: center;
+  
+  
+}
